@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <main className="main">
         <header className="header">
-          <h1>HTML Drag and Drop API</h1>
+          <h1>Færa Magga 🧔‍♂️</h1>
           <p>Þessi síða notar <a href="https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API">HTML Drag and Drop API</a> til þess að færa Magga milli rammanna. Prófaðu að draga hann í annan ramma.</p>
         </header>
 
